@@ -3,7 +3,7 @@ html, body {
   margin: 0;
 }
 
-main {
+.main {
   margin-bottom: 100px;
   width: 550px;
   margin-left: auto;
